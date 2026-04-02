@@ -1,4 +1,4 @@
-## Hi there 👋
+## Увлекаюсь программированием и видеоиграми, проживаю в самом лучшем городе мира-Норильск
 
 <!--
 **vlad864/vlad864** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
