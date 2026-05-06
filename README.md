@@ -32,7 +32,7 @@
 
 ![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=vlad864&theme=gruvbox)
 
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vlad864=compact&theme=gruvbox)
+
 
 ---
 
@@ -40,7 +40,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif"
      alt="Cat"
-     width="300">
+     width="150">
 
 
 - Mac and Win  
