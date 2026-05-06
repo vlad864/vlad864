@@ -3,9 +3,7 @@
 - Email: [vtuflop@gmail.com](mailto:vtuflop@gmail.com)  
 
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459"
-     alt="Animated background"
-     width="500">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" />
 
 <br><br>
 ---
