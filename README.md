@@ -14,7 +14,6 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&labelSize=28)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white&labelSize=28)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelSize=28)
-![Godot Badge](https://img.shields.io/badge/Godot-blue?style=for-the-badge&logo=godot&logoColor=white)
 
 ### Tools and platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
