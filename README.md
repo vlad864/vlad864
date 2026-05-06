@@ -42,11 +42,11 @@
      alt="Cat"
      width="300">
 
-- Cats  
-- Open‑source code  
-- Black coffee  
-- Listening to music with headphones  
-- Quiet surroundings  
+
+- Mac and Win  
+- coffee  
+- Playing vidogames
+
 
 When I’m not coding, I read documentation or watch lectures from MIPT and Yandex, or just waste time on YouTube.
 - 🔭 I’m currently working on C++ program in matrix
